@@ -1,0 +1,56 @@
+2022-12-03 14:54:54,448 INFO c.e.d.SareetaApplication [main] Starting SareetaApplication on DESKTOP-ET6KOBM with PID 10180 (started by ThangNgo in D:\Document Try\Java\nd035-c4-Security-and-DevOps\starter_code)
+2022-12-03 14:54:54,458 DEBUG c.e.d.SareetaApplication [main] Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
+2022-12-03 14:54:54,466 INFO c.e.d.SareetaApplication [main] No active profile set, falling back to default profiles: default
+2022-12-03 14:55:10,185 DEBUG c.e.d.s.JWTAuthenticationVerficationFilter [main] Filter 'JWTAuthenticationVerficationFilter' configured for use
+2022-12-03 14:55:12,924 INFO c.e.d.SareetaApplication [main] Started SareetaApplication in 19.416 seconds (JVM running for 21.101)
+2022-12-03 14:55:12,928 INFO c.e.d.SareetaApplication [main] ECommerce Application Started!
+2022-12-03 14:58:25,957 INFO c.e.d.c.OrderController [main] Get orders by username
+2022-12-03 14:58:25,979 INFO c.e.d.c.OrderController [main] Get orders successfully!
+2022-12-03 14:58:25,988 INFO c.e.d.c.OrderController [main] Submit order by username
+2022-12-03 14:58:25,988 ERROR c.e.d.c.OrderController [main] Can not found any user has username [thangnx2]!
+2022-12-03 14:58:25,993 INFO c.e.d.c.OrderController [main] Submit order by username
+2022-12-03 14:58:25,994 INFO c.e.d.c.OrderController [main] Submit order successfully!
+2022-12-03 14:58:25,999 INFO c.e.d.c.OrderController [main] Get orders by username
+2022-12-03 14:58:26,000 ERROR c.e.d.c.OrderController [main] Can not found any user has username [thangnx2]!
+2022-12-03 14:58:26,043 INFO c.e.d.c.UserController [main] Create user request
+2022-12-03 14:58:26,048 INFO c.e.d.c.UserController [main] Create user request successes!
+2022-12-03 14:58:26,068 INFO c.e.d.c.UserController [main] Create user request
+2022-12-03 14:58:26,070 ERROR c.e.d.c.UserController [main] Create user request fail!
+2022-12-03 14:58:26,080 INFO c.e.d.c.UserController [main] Create user request
+2022-12-03 14:58:26,080 ERROR c.e.d.c.UserController [main] Create user request fail!
+2022-12-03 14:59:09,197 INFO c.e.d.c.OrderController [main] Get orders by username
+2022-12-03 14:59:09,215 INFO c.e.d.c.OrderController [main] Get orders successfully!
+2022-12-03 14:59:09,220 INFO c.e.d.c.OrderController [main] Submit order by username
+2022-12-03 14:59:09,221 ERROR c.e.d.c.OrderController [main] Can not found any user has username [thangnx2]!
+2022-12-03 14:59:09,227 INFO c.e.d.c.OrderController [main] Submit order by username
+2022-12-03 14:59:09,228 INFO c.e.d.c.OrderController [main] Submit order successfully!
+2022-12-03 14:59:09,232 INFO c.e.d.c.OrderController [main] Get orders by username
+2022-12-03 14:59:09,233 ERROR c.e.d.c.OrderController [main] Can not found any user has username [thangnx2]!
+2022-12-03 14:59:09,279 INFO c.e.d.c.UserController [main] Create user request
+2022-12-03 14:59:09,281 INFO c.e.d.c.UserController [main] Create user request successes!
+2022-12-03 14:59:09,302 INFO c.e.d.c.UserController [main] Create user request
+2022-12-03 14:59:09,302 ERROR c.e.d.c.UserController [main] Create user request fail!
+2022-12-03 14:59:09,308 INFO c.e.d.c.UserController [main] Create user request
+2022-12-03 14:59:09,309 ERROR c.e.d.c.UserController [main] Create user request fail!
+2022-12-03 15:09:11,073 INFO c.e.d.c.OrderController [main] Get orders by username
+2022-12-03 15:09:11,092 INFO c.e.d.c.OrderController [main] Get orders successfully!
+2022-12-03 15:09:11,139 INFO c.e.d.c.OrderController [main] Submit order by username
+2022-12-03 15:09:11,140 ERROR c.e.d.c.OrderController [main] Can not found any user has username [thangnx2]!
+2022-12-03 15:09:11,152 INFO c.e.d.c.OrderController [main] Submit order by username
+2022-12-03 15:09:11,155 INFO c.e.d.c.OrderController [main] Submit order successfully!
+2022-12-03 15:09:11,160 INFO c.e.d.c.OrderController [main] Get orders by username
+2022-12-03 15:09:11,161 ERROR c.e.d.c.OrderController [main] Can not found any user has username [thangnx2]!
+2022-12-04 00:37:07,414 INFO c.e.d.c.OrderController [main] Get orders by username
+2022-12-04 00:37:07,487 INFO c.e.d.c.OrderController [main] Get orders successfully!
+2022-12-04 00:37:07,549 INFO c.e.d.c.OrderController [main] Submit order by username
+2022-12-04 00:37:07,549 ERROR c.e.d.c.OrderController [main] Can not found any user has username [thangnx2]!
+2022-12-04 00:37:07,617 INFO c.e.d.c.OrderController [main] Submit order by username
+2022-12-04 00:37:07,620 INFO c.e.d.c.OrderController [main] Submit order successfully!
+2022-12-04 00:37:07,626 INFO c.e.d.c.OrderController [main] Get orders by username
+2022-12-04 00:37:07,627 ERROR c.e.d.c.OrderController [main] Can not found any user has username [thangnx2]!
+2022-12-04 00:42:11,904 INFO c.e.d.SareetaApplication [main] Starting SareetaApplication on DESKTOP-ET6KOBM with PID 11220 (started by ThangNgo in D:\Document Try\Java\nd035-c4-Security-and-DevOps\starter_code)
+2022-12-04 00:42:11,914 DEBUG c.e.d.SareetaApplication [main] Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
+2022-12-04 00:42:11,915 INFO c.e.d.SareetaApplication [main] No active profile set, falling back to default profiles: default
+2022-12-04 00:42:26,683 DEBUG c.e.d.s.JWTAuthenticationVerficationFilter [main] Filter 'JWTAuthenticationVerficationFilter' configured for use
+2022-12-04 00:42:31,819 INFO c.e.d.SareetaApplication [main] Started SareetaApplication in 20.735 seconds (JVM running for 22.547)
+2022-12-04 00:42:31,823 INFO c.e.d.SareetaApplication [main] ECommerce Application Started!
